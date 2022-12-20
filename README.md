@@ -2,4 +2,4 @@
 push von master
 ## myBranch
 push to myBranch
-neue Zeile
+Ein paar Änderungen für my Branch
